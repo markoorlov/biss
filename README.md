@@ -14,9 +14,9 @@ This project connects to open source [REST IP API](https://ipapi.co/), saves IP 
 - Add IP and country name to local database from [REST IP API](https://ipapi.co/)
 - Read from local database
 - Delete saved data from local database
-- Error response from external API handeled
-- Invalid IP requests handeled
-- Caching of data handeled
+- Error response from external API handled
+- Invalid IP requests handled
+- Caching of data handled
 - Working endpoint which return the number of requests received(successful and unsuccessful)
 
 ## Installation
